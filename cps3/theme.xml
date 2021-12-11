@@ -14,12 +14,12 @@
   </text>
   <text name="sys_line2" extra="true">
     <text>System III</text>
-</text>
+  </text>
   <text name="shortdescription" extra="true">
-   <text>1996  ·  Arcade Board</text>
+    <text>1996  ·  Arcade Board</text>
   </text>
   <text name="longdescription" extra="true">
-   <text>The last proprietary system board Capcom would produce before moving on to the Dreamcast-based Naomi platform.</text>
+    <text>The last proprietary system board Capcom would produce before moving on to the Dreamcast-based Naomi platform.</text>
   </text>
  </view>
 </theme>

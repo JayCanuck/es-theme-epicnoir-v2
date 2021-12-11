@@ -14,12 +14,12 @@
   </text>
   <text name="sys_line2" extra="true">
     <text>WiiU</text>
-</text>
+  </text>
   <text name="shortdescription" extra="true">
-   <text>2012  ·  Handheld Console</text>
+    <text>2012  ·  Handheld Console</text>
   </text>
   <text name="longdescription" extra="true">
-   <text>Successor to the Wii and the first eighth-gen video game console, as it competed with Microsoft's Xbox One and Sony's PS4.</text>
+    <text>Successor to the Wii and the first eighth-gen video game console, as it competed with Microsoft's Xbox One and Sony's PS4.</text>
   </text>
  </view>
 </theme>

@@ -3,7 +3,7 @@
 <include>./../theme.xml</include>
 
 <view name="basic, detailed, video, grid">
-    <text name="nameLabel" extra="true">
+  <text name="nameLabel" extra="true">
     <text>Shoot 'em Up Genre</text>
   </text>
 </view>    
@@ -13,10 +13,10 @@
     <text>Shoot 'em Up</text>
   </text>    
   <text name="shortdescription" extra="true">
-   <text>Game Genre</text>
+    <text>Game Genre</text>
   </text>
   <text name="longdescription" extra="true">
-   <text>In a shoot 'em up, the player shoots large numbers of enemies while dodging obstacles, often in a spacecraft or aircraft</text>
+    <text>In a shoot 'em up, the player shoots large numbers of enemies while dodging obstacles, often in a spacecraft or aircraft</text>
   </text>
  </view>
 </theme>

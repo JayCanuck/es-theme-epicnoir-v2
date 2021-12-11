@@ -3,7 +3,7 @@
 <include>./../theme.xml</include>
 
 <view name="basic, detailed, video, grid">
-    <text name="nameLabel" extra="true">
+  <text name="nameLabel" extra="true">
     <text>PC-Engine CD</text>
   </text>
 </view>    
@@ -14,13 +14,12 @@
   </text>
   <text name="sys_line2" extra="true">
     <text>PC-Engine CD</text>
-</text>
-   
+  </text>
   <text name="shortdescription" extra="true">
-   <text>1988  ·  16-bit Console</text>
+    <text>1988  ·  16-bit Console</text>
   </text>
   <text name="longdescription" extra="true">
-   <text>Add-on attachment for the PC Engine. The add-on allows core versions of the console to play PC Engine games in CD-ROM format</text>
+    <text>Add-on attachment for the PC Engine. The add-on allows core versions of the console to play PC Engine games in CD-ROM format</text>
   </text>
  </view>
 </theme>

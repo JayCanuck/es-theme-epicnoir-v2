@@ -3,7 +3,7 @@
 <include>./../theme.xml</include>
 
 <view name="basic, detailed, video, grid">
-    <text name="nameLabel" extra="true">
+  <text name="nameLabel" extra="true">
     <text>Puzzle Genre</text>
   </text>
 </view>    
@@ -13,10 +13,10 @@
     <text>Puzzle</text>
   </text>    
   <text name="shortdescription" extra="true">
-   <text>Game Genre</text>
+    <text>Game Genre</text>
   </text>
   <text name="longdescription" extra="true">
-   <text>Puzzle games can test many problem-solving skills including logic, pattern recognition, sequence solving, and word completion</text>
+    <text>Puzzle games can test many problem-solving skills including logic, pattern recognition, sequence solving, and word completion</text>
   </text>
  </view>
 </theme>

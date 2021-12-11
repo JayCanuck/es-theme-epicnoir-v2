@@ -14,12 +14,12 @@
   </text>
   <text name="sys_line2" extra="true">
     <text>System I</text>
-</text>
+  </text>
   <text name="shortdescription" extra="true">
-   <text>1988  ·  Arcade Board</text>
+    <text>1988  ·  Arcade Board</text>
   </text>
   <text name="longdescription" extra="true">
-   <text>The CPS is an arcade system board developed by Capcom that ran game software stored on removable ROM cartridges.</text>
+    <text>The CPS is an arcade system board developed by Capcom that ran game software stored on removable ROM cartridges.</text>
   </text>
  </view>
 </theme>

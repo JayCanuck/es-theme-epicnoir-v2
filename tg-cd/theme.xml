@@ -3,7 +3,7 @@
 <include>./../theme.xml</include>
 
 <view name="basic, detailed, video, grid">
-    <text name="nameLabel" extra="true">
+  <text name="nameLabel" extra="true">
     <text>TurboGrafx CD</text>
   </text>
 </view>    
@@ -14,13 +14,12 @@
   </text>
   <text name="sys_line2" extra="true">
     <text>TurboGrafx CD</text>
-</text>
-  
+  </text>
   <text name="shortdescription" extra="true">
-   <text>1990  ·  16-bit Console</text>
+    <text>1990  ·  16-bit Console</text>
   </text>
   <text name="longdescription" extra="true">
-   <text>Add-on attachment for the TurboGrafx-16. The add-on allows core versions of the console to play TurboGrafx-16 games in CD-ROM format</text>
+    <text>Add-on attachment for the TurboGrafx-16. The add-on allows core versions of the console to play TurboGrafx-16 games in CD-ROM format</text>
   </text>
  </view>
 </theme>

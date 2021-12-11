@@ -14,13 +14,12 @@
   </text>
   <text name="sys_line2" extra="true">
     <text>Dreamcast</text>
-</text>
-
+  </text>
   <text name="shortdescription" extra="true">
-   <text>1998  ·  128-bit Console</text>
+    <text>1998  ·  128-bit Console</text>
   </text>
   <text name="longdescription" extra="true">
-   <text>The Dreamcast was Sega's final home console, marking the end of the company's 18 years in the console market</text>
+    <text>The Dreamcast was Sega's final home console, marking the end of the company's 18 years in the console market</text>
   </text>
  </view>
 </theme>

@@ -14,13 +14,12 @@
   </text>
   <text name="sys_line2" extra="true">
     <text>GameBoy Advance</text>
-</text>
-
+  </text>
   <text name="shortdescription" extra="true">
-   <text>2001  ·  32-bit Handheld Console</text>
+    <text>2001  ·  32-bit Handheld Console</text>
   </text>
   <text name="longdescription" extra="true">
-   <text>Successor to the Game Boy Color. Market competitors at the time were the Neo Geo Pocket Color, Wonder Swan, GP32 and the N-Gage</text>
+    <text>Successor to the Game Boy Color. Market competitors at the time were the Neo Geo Pocket Color, Wonder Swan, GP32 and the N-Gage</text>
   </text>
  </view>
 </theme>

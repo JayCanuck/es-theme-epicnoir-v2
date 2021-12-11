@@ -3,7 +3,7 @@
 <include>./../theme.xml</include>
 
 <view name="basic, detailed, video, grid">
-    <text name="nameLabel" extra="true">
+  <text name="nameLabel" extra="true">
     <text>SuperGrafx</text>
   </text>
 </view>    
@@ -14,13 +14,12 @@
   </text>
   <text name="sys_line2" extra="true">
     <text>SuperGrafx</text>
-</text>
-   
+  </text>
   <text name="shortdescription" extra="true">
-   <text>1989  ·  16-bit Console</text>
+    <text>1989  ·  16-bit Console</text>
   </text>
   <text name="longdescription" extra="true">
-   <text>The SuperGrafx is an upgraded version of the PC Engine. Only six retail games were produced which took advantage of the improved hardware
+    <text>The SuperGrafx is an upgraded version of the PC Engine. Only six retail games were produced which took advantage of the improved hardware
 </text>
   </text>
  </view>

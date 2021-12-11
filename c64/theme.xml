@@ -3,7 +3,7 @@
 <include>./../theme.xml</include>
 
 <view name="basic, detailed, video, grid">
-    <text name="nameLabel" extra="true">
+  <text name="nameLabel" extra="true">
     <text>Commodore 64</text>
   </text>
 </view>    
@@ -16,10 +16,10 @@
     <text>64</text>
   </text>    
   <text name="shortdescription" extra="true">
-   <text>1982  ·  8-bit Computer</text>
+    <text>1982  ·  8-bit Computer</text>
   </text>
   <text name="longdescription" extra="true">
-   <text>The C64 is listed in the Guinness World Records as the highest-selling single computer model of all time.</text>
+    <text>The C64 is listed in the Guinness World Records as the highest-selling single computer model of all time.</text>
   </text>
  </view>
 </theme>

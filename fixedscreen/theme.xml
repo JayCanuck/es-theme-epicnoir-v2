@@ -3,7 +3,7 @@
 <include>./../theme.xml</include>
 
 <view name="basic, detailed, video, grid">
-    <text name="nameLabel" extra="true">
+  <text name="nameLabel" extra="true">
     <text>Fixed Screen Genre</text>
   </text>
 </view>    
@@ -13,10 +13,10 @@
     <text>Fixed Screen</text>
   </text>    
   <text name="shortdescription" extra="true">
-   <text>Game Genre</text>
+    <text>Game Genre</text>
   </text>
   <text name="longdescription" extra="true">
-   <text>A fixed or single screen perspective applies to all video games in which the entire playfield is shown on the screen</text>
+    <text>A fixed or single screen perspective applies to all video games in which the entire playfield is shown on the screen</text>
   </text>
  </view>
 </theme>

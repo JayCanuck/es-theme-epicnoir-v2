@@ -3,7 +3,7 @@
 <include>./../theme.xml</include>
 
 <view name="basic, detailed, video, grid">
-    <text name="nameLabel" extra="true">
+  <text name="nameLabel" extra="true">
     <text>Scumm VM</text>
   </text>
 </view>    
@@ -13,10 +13,10 @@
     <text>Scumm VM</text>
   </text> 
   <text name="shortdescription" extra="true">
-   <text>Cross Platform Computer</text>
+    <text>Cross Platform Computer</text>
   </text>
   <text name="longdescription" extra="true">
-   <text>Play the classic "Point and Click" graphic adventure games from different platforms and systems like MS-DOS, C64, Apple II or PC</text>
+    <text>Play the classic "Point and Click" graphic adventure games from different platforms and systems like MS-DOS, C64, Apple II or PC</text>
   </text>
  </view>
 </theme>

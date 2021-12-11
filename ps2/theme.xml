@@ -14,12 +14,12 @@
   </text>
   <text name="sys_line2" extra="true">
     <text>Playstation 2</text>
-</text>
+  </text>
   <text name="shortdescription" extra="true">
-   <text>2000  ·  128-bit Console</text>
+    <text>2000  ·  128-bit Console</text>
   </text>
   <text name="longdescription" extra="true">
-   <text>The PlayStation 2 is the best-selling video game console of all time, selling over 155 million units.</text>
+    <text>The PlayStation 2 is the best-selling video game console of all time, selling over 155 million units.</text>
   </text>
  </view>
 </theme>

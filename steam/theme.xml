@@ -14,12 +14,12 @@
   </text>
   <text name="sys_line2" extra="true">
     <text>Steam</text>
-</text>
+  </text>
   <text name="shortdescription" extra="true">
-   <text>Digital Platform</text>
+    <text>Digital Platform</text>
   </text>
   <text name="longdescription" extra="true">
-   <text>Developed by Valve Corporation,  Steam offers digital rights management, multiplayer gaming, video streaming and social networking services</text>
+    <text>Developed by Valve Corporation,  Steam offers digital rights management, multiplayer gaming, video streaming and social networking services</text>
   </text>
  </view>
 </theme>

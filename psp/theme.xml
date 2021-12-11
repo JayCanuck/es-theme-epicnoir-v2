@@ -14,13 +14,12 @@
   </text>
   <text name="sys_line2" extra="true">
     <text>PSP</text>
-</text>
-
+  </text>
   <text name="shortdescription" extra="true">
-   <text>2004  ·  32-bit Handheld Console</text>
+    <text>2004  ·  32-bit Handheld Console</text>
   </text>
   <text name="longdescription" extra="true">
-   <text>Sony's first handheld, it was also the first real competition to Nintendo handhelds since the Game Gear</text>
+    <text>Sony's first handheld, it was also the first real competition to Nintendo handhelds since the Game Gear</text>
   </text>
  </view>
 </theme>

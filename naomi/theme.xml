@@ -3,7 +3,7 @@
 <include>./../theme.xml</include>
 
 <view name="basic, detailed, video, grid">
-    <text name="nameLabel" extra="true">
+  <text name="nameLabel" extra="true">
     <text>Sega Naomi</text>
   </text>
 </view>    
@@ -14,13 +14,12 @@
   </text>
   <text name="sys_line2" extra="true">
     <text>Naomi</text>
-</text>
-    
+  </text>
   <text name="shortdescription" extra="true">
-   <text>1998  ·  Arcade Board</text>
+    <text>1998  ·  Arcade Board</text>
   </text>
   <text name="longdescription" extra="true">
-   <text>A development of the Dreamcast home game console, the NAOMI and Dreamcast share the same hardware components.</text>
+    <text>A development of the Dreamcast home game console, the NAOMI and Dreamcast share the same hardware components.</text>
   </text>
  </view>
 </theme>

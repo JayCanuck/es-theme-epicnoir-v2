@@ -3,7 +3,7 @@
 <include>./../theme.xml</include>
 
 <view name="basic, detailed, video, grid">
-    <text name="nameLabel" extra="true">
+  <text name="nameLabel" extra="true">
     <text>Sinclair ZX-81</text>
   </text>
 </view>    
@@ -14,13 +14,12 @@
   </text>
   <text name="sys_line2" extra="true">
     <text>ZX-81</text>
-</text>
-    
+  </text>
   <text name="shortdescription" extra="true">
-   <text>1980  ·  8-bit Computer</text>
+    <text>1980  ·  8-bit Computer</text>
   </text>
   <text name="longdescription" extra="true">
-   <text>Notable for being one of the first computers available in the United Kingdom for less than a hundred pounds</text>
+    <text>Notable for being one of the first computers available in the United Kingdom for less than a hundred pounds</text>
   </text>
  </view>
 </theme>

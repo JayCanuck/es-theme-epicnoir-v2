@@ -3,7 +3,7 @@
 <include>./../theme.xml</include>
 
 <view name="basic, detailed, video, grid">
-    <text name="nameLabel" extra="true">
+  <text name="nameLabel" extra="true">
     <text>Atari ST</text>
   </text>
 </view>    
@@ -14,13 +14,12 @@
   </text>
   <text name="sys_line2" extra="true">
     <text>ST</text>
-</text>
- 
+  </text>
   <text name="shortdescription" extra="true">
-   <text>1985  ·  16-bit Computer</text>
+    <text>1985  ·  16-bit Computer</text>
   </text>
   <text name="longdescription" extra="true">
-   <text>The Atari ST is a line of home computers from Atari Corporation and the successor to the Atari 8-bit family</text>
+    <text>The Atari ST is a line of home computers from Atari Corporation and the successor to the Atari 8-bit family</text>
   </text>
  </view>
 </theme>

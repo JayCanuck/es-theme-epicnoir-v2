@@ -3,7 +3,7 @@
 <include>./../theme.xml</include>
 
 <view name="basic, detailed, video, grid">
-    <text name="nameLabel" extra="true">
+  <text name="nameLabel" extra="true">
     <text>All Games</text>
   </text>
 </view>    
@@ -13,10 +13,10 @@
     <text>All Games</text>
   </text>  
   <text name="shortdescription" extra="true">
-   <text>All Consoles / Handhelds</text>
+    <text>All Consoles / Handhelds</text>
   </text>
   <text name="longdescription" extra="true">
-   <text>Access and quickly play every single game across the entire library</text>
+    <text>Access and quickly play every single game across the entire library</text>
   </text>
  </view>
 </theme>

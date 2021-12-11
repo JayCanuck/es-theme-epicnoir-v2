@@ -14,13 +14,12 @@
   </text>
   <text name="sys_line2" extra="true">
     <text>Disk System</text>
-</text>
-
+  </text>
   <text name="shortdescription" extra="true">
-   <text>1986  ·  8-bit Console</text>
+    <text>1986  ·  8-bit Console</text>
   </text>
   <text name="longdescription" extra="true">
-   <text>The Family Computer is a peripheral for Nintendo's Family Computer home video game console, released only in Japan</text>
+    <text>The Family Computer is a peripheral for Nintendo's Family Computer home video game console, released only in Japan</text>
   </text>
  </view>
 </theme>

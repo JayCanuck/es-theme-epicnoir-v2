@@ -14,12 +14,12 @@
   </text>
   <text name="sys_line2" extra="true">
     <text>SYystem II</text>
-</text>
+  </text>
   <text name="shortdescription" extra="true">
-   <text>1993  ·  Arcade Board</text>
+    <text>1993  ·  Arcade Board</text>
   </text>
   <text name="longdescription" extra="true">
-   <text>Arcade board that Capcom first used for Super Street Fighter II. It was the successor to their previous CPS.</text>
+    <text>Arcade board that Capcom first used for Super Street Fighter II. It was the successor to their previous CPS.</text>
   </text>
  </view>
 </theme>

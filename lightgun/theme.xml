@@ -3,7 +3,7 @@
 <include>./../theme.xml</include>
 
 <view name="basic, detailed, video, grid">
-    <text name="nameLabel" extra="true">
+  <text name="nameLabel" extra="true">
     <text>Lightgun Genre</text>
   </text>
 </view>    
@@ -13,10 +13,10 @@
     <text>Lightgun</text>
   </text>    
   <text name="shortdescription" extra="true">
-   <text>Game Genre</text>
+    <text>Game Genre</text>
   </text>
   <text name="longdescription" extra="true">
-   <text>Light gun shooter, is a shooter video game genre in which the primary design element is aiming and shooting with a gun-shaped controller</text>
+    <text>Light gun shooter, is a shooter video game genre in which the primary design element is aiming and shooting with a gun-shaped controller</text>
   </text>
  </view>
 </theme>

@@ -3,7 +3,7 @@
 <include>./../theme.xml</include>
 
 <view name="basic, detailed, video, grid">
-    <text name="nameLabel" extra="true">
+  <text name="nameLabel" extra="true">
     <text>Vectrex</text>
   </text>
 </view>    
@@ -13,10 +13,10 @@
     <text>Vectrex</text>
   </text>   
   <text name="shortdescription" extra="true">
-   <text>1982  ·  8-bit Console</text>
+    <text>1982  ·  8-bit Console</text>
   </text>
   <text name="longdescription" extra="true">
-   <text>Vector display based home video game console that was developed by Western Technologies Smith Engineering</text>
+    <text>Vector display based home video game console that was developed by Western Technologies Smith Engineering</text>
   </text>
  </view>
 </theme>

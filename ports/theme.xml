@@ -3,7 +3,7 @@
 <include>./../theme.xml</include>
 
 <view name="basic, detailed, video, grid">
-    <text name="nameLabel" extra="true">
+  <text name="nameLabel" extra="true">
     <text>Ports</text>
   </text>
 </view>    
@@ -13,10 +13,10 @@
     <text>Ports</text>
   </text>    
   <text name="shortdescription" extra="true">
-   <text>Software</text>
+    <text>Software</text>
   </text>
   <text name="longdescription" extra="true">
-   <text>Multi-platform ports of software and game engines from PC to DOS </text>
+    <text>Multi-platform ports of software and game engines from PC to DOS </text>
   </text>
  </view>
 </theme>

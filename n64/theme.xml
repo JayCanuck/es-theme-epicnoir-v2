@@ -3,7 +3,7 @@
 <include>./../theme.xml</include>
 
 <view name="basic, detailed, video, grid">
-    <text name="nameLabel" extra="true">
+  <text name="nameLabel" extra="true">
     <text>Nintendo 64</text>
   </text>
 </view>    
@@ -14,13 +14,12 @@
   </text>
   <text name="sys_line2" extra="true">
     <text>64</text>
-</text>
-
+  </text>
   <text name="shortdescription" extra="true">
-   <text>1996  ·  64-bit Console</text>
+    <text>1996  ·  64-bit Console</text>
   </text>
   <text name="longdescription" extra="true">
-   <text>The N64 was the last major home console to use the cartridge as its primary storage format until Nintendo's seventh console, the Nintendo Switch</text>
+    <text>The N64 was the last major home console to use the cartridge as its primary storage format until Nintendo's seventh console, the Nintendo Switch</text>
   </text>
  </view>
 </theme>

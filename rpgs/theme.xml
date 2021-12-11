@@ -3,7 +3,7 @@
 <include>./../theme.xml</include>
 
 <view name="basic, detailed, video, grid">
-    <text name="nameLabel" extra="true">
+  <text name="nameLabel" extra="true">
     <text>Role Playing Genre</text>
   </text>
 </view>    
@@ -13,10 +13,10 @@
     <text>Role Playing</text>
   </text>    
   <text name="shortdescription" extra="true">
-   <text>Game Genre</text>
+    <text>Game Genre</text>
   </text>
   <text name="longdescription" extra="true">
-   <text>In a role-playing game, the player controls the actions of one or several characters, immersed in an often fantastical world</text>
+    <text>In a role-playing game, the player controls the actions of one or several characters, immersed in an often fantastical world</text>
   </text>
  </view>
 </theme>

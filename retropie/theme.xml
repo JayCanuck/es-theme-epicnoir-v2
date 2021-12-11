@@ -3,7 +3,7 @@
 <include>./../theme.xml</include>
 
 <view name="basic, detailed, video, grid">
-    <text name="nameLabel" extra="true">
+  <text name="nameLabel" extra="true">
     <text>Options</text>
   </text>
 </view>    
@@ -13,10 +13,10 @@
     <text>Options</text>
   </text> 
   <text name="shortdescription" extra="true">
-   <text>System Configuration</text>
+    <text>System Configuration</text>
   </text>
   <text name="longdescription" extra="true">
-   <text>Configure System hardware, Bluetooth & Wi-Fi connections. Install updates, addons and visual themes</text>
+    <text>Configure System hardware, Bluetooth & Wi-Fi connections. Install updates, addons and visual themes</text>
   </text>
  </view>
 </theme>

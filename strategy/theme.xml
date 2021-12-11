@@ -3,7 +3,7 @@
 <include>./../theme.xml</include>
 
 <view name="basic, detailed, video, grid">
-    <text name="nameLabel" extra="true">
+  <text name="nameLabel" extra="true">
     <text>Strategy Genre</text>
   </text>
 </view>    
@@ -13,10 +13,10 @@
     <text>Strategy</text>
   </text>    
   <text name="shortdescription" extra="true">
-   <text>Game Genre</text>
+    <text>Game Genre</text>
   </text>
   <text name="longdescription" extra="true">
-   <text>Strategy video games focus on thinking and planning, and provide strategic, tactical, and sometimes logistical challenges</text>
+    <text>Strategy video games focus on thinking and planning, and provide strategic, tactical, and sometimes logistical challenges</text>
   </text>
  </view>
 </theme>

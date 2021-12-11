@@ -3,7 +3,7 @@
 <include>./../theme.xml</include>
 
 <view name="basic, detailed, video, grid">
-    <text name="nameLabel" extra="true">
+  <text name="nameLabel" extra="true">
     <text>Atari 5200</text>
   </text>
 </view>    
@@ -14,12 +14,12 @@
   </text>
   <text name="sys_line2" extra="true">
     <text>5200</text>
-</text>
-<text name=text name="shortdescription" extra="true">
-   <text>1982  ·  8-bit Console</text>
+  </text>
+  <text name="shortdescription" extra="true">
+    <text>1982  ·  8-bit Console</text>
   </text>
   <text name="longdescription" extra="true">
-   <text>Home video game console that was introduced as a higher-end complementary console for the popular Atari 2600</text>
+    <text>Home video game console that was introduced as a higher-end complementary console for the popular Atari 2600</text>
   </text>
  </view>
 </theme>

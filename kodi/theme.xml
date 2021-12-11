@@ -3,7 +3,7 @@
 <include>./../theme.xml</include>
 
 <view name="basic, detailed, video, grid">
-    <text name="nameLabel" extra="true">
+  <text name="nameLabel" extra="true">
     <text>Kodi</text>
   </text>
 </view>    
@@ -13,10 +13,10 @@
     <text>Kodi</text>
   </text>    
   <text name="shortdescription" extra="true">
-   <text>Streaming Video Service</text>
+    <text>Streaming Video Service</text>
   </text>
   <text name="longdescription" extra="true">
-   <text>Kodi is an award-winning free and open source cross-platform software media player and entertainment hub for digital media for HTPCs</text>
+    <text>Kodi is an award-winning free and open source cross-platform software media player and entertainment hub for digital media for HTPCs</text>
   </text>
  </view>
 </theme>

@@ -3,7 +3,7 @@
 <include>./../theme.xml</include>
 
 <view name="basic, detailed, video, grid">
-    <text name="nameLabel" extra="true">
+  <text name="nameLabel" extra="true">
     <text>Nintendo DS</text>
   </text>
 </view>    
@@ -14,13 +14,12 @@
   </text>
   <text name="sys_line2" extra="true">
     <text>DS</text>
-</text>
- 
+  </text>
   <text name="shortdescription" extra="true">
-   <text>2004  ·  32-bit Handheld Console</text>
+    <text>2004  ·  32-bit Handheld Console</text>
   </text>
   <text name="longdescription" extra="true">
-   <text>The Nintendo DS is a dual-screen handheld game console developed and released by Nintendo that featured two LCD screens working in tandem</text>
+    <text>The Nintendo DS is a dual-screen handheld game console developed and released by Nintendo that featured two LCD screens working in tandem</text>
   </text>
  </view>
 </theme>

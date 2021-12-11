@@ -3,7 +3,7 @@
 <include>./../theme.xml</include>
 
 <view name="basic, detailed, video, grid">
-    <text name="nameLabel" extra="true">
+  <text name="nameLabel" extra="true">
     <text>MSX 2</text>
   </text>
 </view>    
@@ -14,13 +14,12 @@
   </text>
   <text name="sys_line2" extra="true">
     <text>MSX 2</text>
-</text>
-
+  </text>
   <text name="shortdescription" extra="true">
-   <text>1984  ·  16-bit Computer</text>
+    <text>1984  ·  16-bit Computer</text>
   </text>
   <text name="longdescription" extra="true">
-   <text>MSX2 is a standardized home computer architecture, conceived as an attempt to create unified standards among various hardware makers</text>
+    <text>MSX2 is a standardized home computer architecture, conceived as an attempt to create unified standards among various hardware makers</text>
   </text>
  </view>
 </theme>

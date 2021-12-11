@@ -14,13 +14,12 @@
   </text>
   <text name="sys_line2" extra="true">
     <text>Virtualboy</text>
-</text>
-
+  </text>
   <text name="shortdescription" extra="true">
-   <text>1995  ·  32-bit Table-top Console</text>
+    <text>1995  ·  32-bit Table-top Console</text>
   </text>
   <text name="longdescription" extra="true">
-   <text>It was marketed as the first console capable of displaying stereoscopic 3D graphics using a parallax effect to create the illusion of depth</text>
+    <text>It was marketed as the first console capable of displaying stereoscopic 3D graphics using a parallax effect to create the illusion of depth</text>
   </text>
  </view>
 </theme>
