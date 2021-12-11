@@ -4,7 +4,7 @@
 
 <view name="basic, detailed, video, grid">
     <text name="nameLabel" extra="true">
-    <text>SINCLAIR ZX-81</text>
+    <text>Sinclair ZX-81</text>
   </text>
 </view>    
 

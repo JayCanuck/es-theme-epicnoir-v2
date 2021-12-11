@@ -3,7 +3,7 @@
 <include>./../theme.xml</include>
 
 <view name="basic, detailed, video, grid">
-    <text name="nameLabel" extra="true">
+  <text name="nameLabel" extra="true">
     <text>Action Genre</text>
   </text>
 </view>    
@@ -15,6 +15,7 @@
   <text name="shortdescription" extra="true">
    <text>Game Genre</text>
   </text>
+  
   <text name="longdescription" extra="true">
    <text>An action game emphasizes physical challenges, including hand–eye coordination and reaction-time</text>
   </text>

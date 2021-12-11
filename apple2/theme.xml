@@ -3,7 +3,7 @@
 <include>./../theme.xml</include>
 
 <view name="basic, detailed, video, grid">
-    <text name="nameLabel" extra="true">
+  <text name="nameLabel" extra="true">
     <text>Apple ][</text>
   </text>
 </view>    
@@ -12,15 +12,15 @@
   <text name="sys_line1" extra="true">
     <text>Apple</text>
   </text>
-<view name="system">
   <text name="sys_line2" extra="true">
     <text>][</text>
-  </text>    
+  </text> 
+
   <text name="shortdescription" extra="true">
-   <text>1977  ·  8-bit Computer</text>
+    <text>1977  ·  8-bit Computer</text>
   </text>
   <text name="longdescription" extra="true">
-   <text>One of the first highly successful mass-produced microcomputer products, designed primarily by Steve Wozniak.</text>
+    <text>One of the first highly successful mass-produced microcomputer products, designed primarily by Steve Wozniak.</text>
   </text>
  </view>
 </theme>

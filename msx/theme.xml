@@ -12,7 +12,6 @@
   <text name="sys_line1" extra="true">
     <text>Microsoft</text>
   </text>
-<view name="system">
   <text name="sys_line2" extra="true">
     <text>MSX</text>
   </text> 

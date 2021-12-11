@@ -3,7 +3,7 @@
 <include>./../theme.xml</include>
 
 <view name="basic, detailed, video, grid">
-    <text name="nameLabel" extra="true">
+  <text name="nameLabel" extra="true">
     <text>Amiga</text>
   </text>
 </view>    
@@ -12,15 +12,15 @@
   <text name="sys_line1" extra="true">
     <text>Commodore</text>
   </text>
-<view name="system">
   <text name="sys_line2" extra="true">
     <text>Amiga</text>
-  </text>    
+  </text> 
+
   <text name="shortdescription" extra="true">
-   <text>1985  ·  16-bit Computer</text>
+    <text>1985  ·  16-bit Computer</text>
   </text>
   <text name="longdescription" extra="true">
-   <text>The original model was part of a wave of 16 and 32 bit computers that featured 256KB or more of RAM, mouse-based GUIs, and improved graphics & audio</text>
+    <text>The original model was part of a wave of 16 and 32 bit computers that featured 256KB or more of RAM, mouse-based GUIs, and improved graphics & audio</text>
   </text>
  </view>
 </theme>

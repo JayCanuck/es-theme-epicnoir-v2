@@ -3,7 +3,7 @@
 <include>./../theme.xml</include>
 
 <view name="basic, detailed, video, grid">
-    <text name="nameLabel" extra="true">
+  <text name="nameLabel" extra="true">
     <text>3DO</text>
   </text>
 </view>    
@@ -15,7 +15,7 @@
   <text name="sys_line2" extra="true">
     <text>3DO</text>
 </text>
-  
+
   <text name="shortdescription" extra="true">
    <text>1993  ·  32-bit Console</text>
   </text>

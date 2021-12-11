@@ -3,7 +3,7 @@
 <include>./../theme.xml</include>
 
 <view name="basic, detailed, video, grid">
-    <text name="nameLabel" extra="true">
+  <text name="nameLabel" extra="true">
     <text>Arcade</text>
   </text>
 </view>    
@@ -11,7 +11,8 @@
 <view name="system">
   <text name="sys_line2" extra="true">
     <text>Arcade</text>
-  </text>    
+  </text>
+
   <text name="shortdescription" extra="true">
     <text>1970's  ·  Arcade Machines</text>
   </text>
