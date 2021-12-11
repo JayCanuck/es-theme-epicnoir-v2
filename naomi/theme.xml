@@ -9,9 +9,13 @@
 </view>    
 
 <view name="system">
+  <text name="sys_line1" extra="true">
+    <text>Sega</text>
+  </text>
   <text name="sys_line2" extra="true">
-    <text>Sega Naomi</text>
-  </text>    
+    <text>Naomi</text>
+</text>
+    
   <text name="shortdescription" extra="true">
    <text>1998  ·  Arcade Board</text>
   </text>

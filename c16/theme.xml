@@ -4,13 +4,17 @@
 
 <view name="basic, detailed, video, grid">
     <text name="nameLabel" extra="true">
-    <text>COMMODORE 16</text>
+    <text>Commodore 16</text>
   </text>
 </view>    
 
 <view name="system">
+  <text name="sys_line1" extra="true">
+    <text>Commodore</text>
+  </text>
+<view name="system">
   <text name="sys_line2" extra="true">
-    <text>C16</text>
+    <text>16</text>
   </text>    
   <text name="shortdescription" extra="true">
    <text>1984  ·  16-bit Computer</text>

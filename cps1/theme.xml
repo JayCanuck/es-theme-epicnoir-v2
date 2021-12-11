@@ -4,16 +4,16 @@
 
 <view name="basic, detailed, video, grid">
   <text name="nameLabel" extra="true">
-    <text>CAPCOM SYSTEM I</text>
+    <text>Capcom System I</text>
   </text>
 </view>    
 
 <view name="system">
   <text name="sys_line1" extra="true">
-    <text>CAPCOM</text>
+    <text>Capcom</text>
   </text>
   <text name="sys_line2" extra="true">
-    <text>SYSTEM I</text>
+    <text>System I</text>
 </text>
   <text name="shortdescription" extra="true">
    <text>1988  ·  Arcade Board</text>

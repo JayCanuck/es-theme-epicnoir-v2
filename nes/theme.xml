@@ -10,11 +10,12 @@
 
 <view name="system">
   <text name="sys_line1" extra="true">
-    <text>Nintendo Entertainment</text>
+    <text>Nintendo</text>
   </text>
   <text name="sys_line2" extra="true">
-    <text>System</text>
+    <text>NES</text>
 </text>
+
   <text name="shortdescription" extra="true">
    <text>1983  ·  8-bit Console</text>
   </text>

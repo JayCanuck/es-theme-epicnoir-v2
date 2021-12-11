@@ -9,9 +9,13 @@
 </view>    
 
 <view name="system">
+  <text name="sys_line1" extra="true">
+    <text>Sinclair</text>
+  </text>
   <text name="sys_line2" extra="true">
     <text>ZX-81</text>
-  </text>    
+</text>
+    
   <text name="shortdescription" extra="true">
    <text>1980  ·  8-bit Computer</text>
   </text>

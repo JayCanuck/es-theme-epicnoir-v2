@@ -9,10 +9,13 @@
 </view>    
 
 <view name="system">
-
+  <text name="sys_line1" extra="true">
+    <text>Sega</text>
+  </text>
   <text name="sys_line2" extra="true">
     <text>Genesis 32x</text>
 </text>
+
   <text name="shortdescription" extra="true">
    <text>1994  ·  32-bit Console</text>
   </text>

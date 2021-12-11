@@ -9,9 +9,13 @@
 </view>    
 
 <view name="system">
+  <text name="sys_line1" extra="true">
+    <text>Sammy</text>
+  </text>
   <text name="sys_line2" extra="true">
     <text>Atomiswave</text>
-  </text>    
+</text>
+  
   <text name="shortdescription" extra="true">
    <text>2003  ·  32-bit Board</text>
   </text>

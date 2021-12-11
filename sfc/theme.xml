@@ -9,9 +9,13 @@
 </view>    
 
 <view name="system">
+  <text name="sys_line1" extra="true">
+    <text>Nintendo</text>
+  </text>
   <text name="sys_line2" extra="true">
-    <text>Super Famicom</text>
-  </text>   
+    <text>Super Famicon</text>
+</text>
+   
   <text name="shortdescription" extra="true">
    <text>1990  ·  16-bit Console</text>
   </text>

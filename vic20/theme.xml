@@ -4,14 +4,18 @@
 
 <view name="basic, detailed, video, grid">
     <text name="nameLabel" extra="true">
-    <text>COMMODORE VIC-20</text>
+    <text>Commodore VIC-20</text>
   </text>
 </view>    
 
 <view name="system">
+  <text name="sys_line1" extra="true">
+    <text>Commodore</text>
+  </text>
   <text name="sys_line2" extra="true">
-    <text>VIC-20</text>
-  </text>    
+    <text>Vic-20</text>
+</text>
+   
   <text name="shortdescription" extra="true">
    <text>1980  ·  8-bit Computer</text>
   </text>

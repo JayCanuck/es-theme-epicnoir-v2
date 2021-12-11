@@ -9,9 +9,13 @@
 </view>    
 
 <view name="system">
+  <text name="sys_line1" extra="true">
+    <text>Nintendo</text>
+  </text>
   <text name="sys_line2" extra="true">
-    <text>VirtualBoy</text>
+    <text>Virtualboy</text>
 </text>
+
   <text name="shortdescription" extra="true">
    <text>1995  ·  32-bit Table-top Console</text>
   </text>

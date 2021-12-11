@@ -9,6 +9,10 @@
 </view>    
 
 <view name="system">
+  <text name="sys_line1" extra="true">
+    <text>Mattel</text>
+  </text>
+<view name="system">
   <text name="sys_line2" extra="true">
     <text>Intellivision</text>
   </text>    

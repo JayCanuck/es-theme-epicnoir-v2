@@ -9,8 +9,12 @@
 </view>    
 
 <view name="system">
+  <text name="sys_line1" extra="true">
+    <text>Apple</text>
+  </text>
+<view name="system">
   <text name="sys_line2" extra="true">
-    <text>Apple ][</text>
+    <text>][</text>
   </text>    
   <text name="shortdescription" extra="true">
    <text>1977  ·  8-bit Computer</text>

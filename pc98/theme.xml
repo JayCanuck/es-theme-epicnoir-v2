@@ -8,10 +8,14 @@
   </text>
 </view>    
 
-<view name="system">
+<<view name="system">
+  <text name="sys_line1" extra="true">
+    <text>NEC</text>
+  </text>
   <text name="sys_line2" extra="true">
-    <text>NEC PC98</text>
-  </text>    
+    <text>PC-98</text>
+</text>
+  
   <text name="shortdescription" extra="true">
    <text>1982  ·  32-bit Computer</text>
   </text>

@@ -9,9 +9,13 @@
 </view>    
 
 <view name="system">
+  <text name="sys_line1" extra="true">
+    <text>Atari</text>
+  </text>
   <text name="sys_line2" extra="true">
-    <text>Atari ST</text>
-  </text>  
+    <text>ST</text>
+</text>
+ 
   <text name="shortdescription" extra="true">
    <text>1985  ·  16-bit Computer</text>
   </text>

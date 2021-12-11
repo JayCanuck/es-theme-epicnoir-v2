@@ -9,9 +9,13 @@
 </view>    
 
 <view name="system">
-  <text name="sys_line2" extra="true">
+  <text name="sys_line1" extra="true">
     <text>Neo Geo</text>
-  </text> 
+  </text>
+  <text name="sys_line2" extra="true">
+    <text>CD</text>
+</text>
+
   <text name="shortdescription" extra="true">
    <text>1990  ·  24-bit Console</text>
   </text>
