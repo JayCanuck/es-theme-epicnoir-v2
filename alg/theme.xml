@@ -4,19 +4,22 @@
 
 <view name="basic, detailed, video, grid">
   <text name="nameLabel" extra="true">
-    <text>Pokemon Mini</text>
+    <text>American LG</text>
   </text>
 </view>    
 
 <view name="system">
+  <text name="sys_line1" extra="true">
+    <text>American</text>
+  </text>
   <text name="sys_line2" extra="true">
-    <text>Pokemon Mini</text>
-  </text>    
+    <text>Laser Games</text>
+  </text>  
   <text name="shortdescription" extra="true">
-    <text>2001  ·  Handheld Console</text>
+    <text>Laserdisc Console</text>
   </text>
   <text name="longdescription" extra="true">
-    <text>The Pokemon Mini is a handheld game console that was designed and manufactured by Nintendo and themed around the Pokemon media franchise</text>
+    <text>American Laser Games was a company that created numerous light gun laserdisc video games featuring live action full motion video.</text>
   </text>
  </view>
 </theme>

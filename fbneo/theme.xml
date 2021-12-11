@@ -4,19 +4,22 @@
 
 <view name="basic, detailed, video, grid">
   <text name="nameLabel" extra="true">
-    <text>Pokemon Mini</text>
+    <text>FBN</text>
   </text>
 </view>    
 
 <view name="system">
+  <text name="sys_line1" extra="true">
+    <text>Final Burn</text>
+  </text>
   <text name="sys_line2" extra="true">
-    <text>Pokemon Mini</text>
-  </text>    
+    <text>Neo</text>
+</text>
   <text name="shortdescription" extra="true">
-    <text>2001  ·  Handheld Console</text>
+    <text>Coin Operated Cabinet</text>
   </text>
   <text name="longdescription" extra="true">
-    <text>The Pokemon Mini is a handheld game console that was designed and manufactured by Nintendo and themed around the Pokemon media franchise</text>
+    <text>Final Burn Neo is an active fork of the FinalBurn Alpha emulator, created by many of the former FBA developers</text>
   </text>
  </view>
 </theme>

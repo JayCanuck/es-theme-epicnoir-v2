@@ -4,19 +4,22 @@
 
 <view name="basic, detailed, video, grid">
   <text name="nameLabel" extra="true">
-    <text>Pokemon Mini</text>
+    <text>LCD Games</text>
   </text>
 </view>    
 
 <view name="system">
+  <text name="sys_line1" extra="true">
+    <text>Handheld</text>
+  </text> 
   <text name="sys_line2" extra="true">
-    <text>Pokemon Mini</text>
+    <text>Electronic Game</text>
   </text>    
   <text name="shortdescription" extra="true">
-    <text>2001  ·  Handheld Console</text>
+    <text>1976  ·  Handheld Console</text>
   </text>
   <text name="longdescription" extra="true">
-    <text>The Pokemon Mini is a handheld game console that was designed and manufactured by Nintendo and themed around the Pokemon media franchise</text>
+    <text>Handheld electronic games are very small, portable devices for playing interactive electronic games, often miniaturized versions of video games</text>
   </text>
  </view>
 </theme>

@@ -4,19 +4,22 @@
 
 <view name="basic, detailed, video, grid">
   <text name="nameLabel" extra="true">
-    <text>Pokemon Mini</text>
+    <text>CreatiVision</text>
   </text>
 </view>    
 
 <view name="system">
+  <text name="sys_line1" extra="true">
+    <text>VTech</text>
+  </text>
   <text name="sys_line2" extra="true">
-    <text>Pokemon Mini</text>
-  </text>    
+    <text>CratiVision</text>
+</text>   
   <text name="shortdescription" extra="true">
-    <text>2001  ·  Handheld Console</text>
+    <text>1982  ·  Home Computer</text>
   </text>
   <text name="longdescription" extra="true">
-    <text>The Pokemon Mini is a handheld game console that was designed and manufactured by Nintendo and themed around the Pokemon media franchise</text>
+    <text>The Video Technology CreatiVision is a hybrid computer and home video game console introduced by VTech in 1981 and released in 1982</text>
   </text>
  </view>
 </theme>

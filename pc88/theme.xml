@@ -4,19 +4,22 @@
 
 <view name="basic, detailed, video, grid">
   <text name="nameLabel" extra="true">
-    <text>Pokemon Mini</text>
+    <text>NEC PC-88</text>
   </text>
 </view>    
 
 <view name="system">
+  <text name="sys_line1" extra="true">
+    <text>NEC</text>
+  </text> 
   <text name="sys_line2" extra="true">
-    <text>Pokemon Mini</text>
+    <text>PC-88</text>
   </text>    
   <text name="shortdescription" extra="true">
-    <text>2001  ·  Handheld Console</text>
+    <text>1981  ·  Home Computer</text>
   </text>
   <text name="longdescription" extra="true">
-    <text>The Pokemon Mini is a handheld game console that was designed and manufactured by Nintendo and themed around the Pokemon media franchise</text>
+    <text>PC-88 are a brand of Zilog Z80-based 8-bit home computers released by Nippon Electric Company in 1981 and primarily sold in Japan</text>
   </text>
  </view>
 </theme>

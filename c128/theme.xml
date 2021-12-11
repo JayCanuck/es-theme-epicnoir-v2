@@ -4,19 +4,22 @@
 
 <view name="basic, detailed, video, grid">
   <text name="nameLabel" extra="true">
-    <text>Pokemon Mini</text>
+    <text>Commodore 128</text>
   </text>
 </view>    
 
 <view name="system">
+  <text name="sys_line1" extra="true">
+    <text>Commodore</text>
+  </text>
   <text name="sys_line2" extra="true">
-    <text>Pokemon Mini</text>
-  </text>    
+    <text>128</text>
+  </text>   
   <text name="shortdescription" extra="true">
-    <text>2001  ·  Handheld Console</text>
+    <text>1985  ·  Home Computer</text>
   </text>
   <text name="longdescription" extra="true">
-    <text>The Pokemon Mini is a handheld game console that was designed and manufactured by Nintendo and themed around the Pokemon media franchise</text>
+    <text>The Commodore 128 is the last 8-bit home computer that was commercially released by Commodore Business Machines</text>
   </text>
  </view>
 </theme>

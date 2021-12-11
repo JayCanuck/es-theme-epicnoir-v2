@@ -4,19 +4,19 @@
 
 <view name="basic, detailed, video, grid">
   <text name="nameLabel" extra="true">
-    <text>Pokemon Mini</text>
+    <text>Neo Geo AES</text>
   </text>
 </view>    
 
 <view name="system">
   <text name="sys_line2" extra="true">
-    <text>Pokemon Mini</text>
-  </text>    
+    <text>Neo Geo AES</text>
+  </text> 
   <text name="shortdescription" extra="true">
-    <text>2001  ·  Handheld Console</text>
+    <text>1990  ·  Home Console</text>
   </text>
   <text name="longdescription" extra="true">
-    <text>The Pokemon Mini is a handheld game console that was designed and manufactured by Nintendo and themed around the Pokemon media franchise</text>
+    <text>Originally launched as the MVS coin-operated arcade machine. It was ranked 19th out of 25 best video game consoles of all time</text>
   </text>
  </view>
 </theme>

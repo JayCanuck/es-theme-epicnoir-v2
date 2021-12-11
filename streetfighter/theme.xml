@@ -4,19 +4,19 @@
 
 <view name="basic, detailed, video, grid">
   <text name="nameLabel" extra="true">
-    <text>Pokemon Mini</text>
+    <text>Street Fighter</text>
   </text>
 </view>    
 
 <view name="system">
   <text name="sys_line2" extra="true">
-    <text>Pokemon Mini</text>
+    <text>Street Fighter</text>
   </text>    
   <text name="shortdescription" extra="true">
-    <text>2001  ·  Handheld Console</text>
+    <text>Street Fighter  ·  Game Series</text>
   </text>
   <text name="longdescription" extra="true">
-    <text>The Pokemon Mini is a handheld game console that was designed and manufactured by Nintendo and themed around the Pokemon media franchise</text>
+    <text>Street Fighter is one of highest-grossing video game franchises of all time and serves as one of Capcom's flagship series</text>
   </text>
  </view>
 </theme>

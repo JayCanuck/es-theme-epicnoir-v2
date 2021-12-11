@@ -4,19 +4,19 @@
 
 <view name="basic, detailed, video, grid">
   <text name="nameLabel" extra="true">
-    <text>Pokemon Mini</text>
+    <text>Final Fantasy</text>
   </text>
 </view>    
 
 <view name="system">
   <text name="sys_line2" extra="true">
-    <text>Pokemon Mini</text>
-  </text>    
+    <text>Final Fantasy</text>
+  </text> 
   <text name="shortdescription" extra="true">
-    <text>2001  ·  Handheld Console</text>
+    <text>Final Fantasy · Game Series</text>
   </text>
   <text name="longdescription" extra="true">
-    <text>The Pokemon Mini is a handheld game console that was designed and manufactured by Nintendo and themed around the Pokemon media franchise</text>
+    <text>Final Fantasy is a Japanese anthology science fantasy media franchise created by Hironobu Sakaguchi, and developed and owned by Square</text>
   </text>
  </view>
 </theme>

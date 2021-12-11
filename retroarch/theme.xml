@@ -4,19 +4,19 @@
 
 <view name="basic, detailed, video, grid">
   <text name="nameLabel" extra="true">
-    <text>Pokemon Mini</text>
+    <text>Options</text>
   </text>
 </view>    
 
 <view name="system">
   <text name="sys_line2" extra="true">
-    <text>Pokemon Mini</text>
-  </text>    
+    <text>Retroarch</text>
+  </text> 
   <text name="shortdescription" extra="true">
-    <text>2001  ·  Handheld Console</text>
+    <text>Front-End</text>
   </text>
   <text name="longdescription" extra="true">
-    <text>The Pokemon Mini is a handheld game console that was designed and manufactured by Nintendo and themed around the Pokemon media franchise</text>
+    <text>RetroArch is a frontend for emulators, game engines and media players</text>
   </text>
  </view>
 </theme>

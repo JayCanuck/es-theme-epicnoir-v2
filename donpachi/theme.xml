@@ -4,19 +4,19 @@
 
 <view name="basic, detailed, video, grid">
   <text name="nameLabel" extra="true">
-    <text>Pokemon Mini</text>
+    <text>DonPachi</text>
   </text>
 </view>    
 
 <view name="system">
   <text name="sys_line2" extra="true">
-    <text>Pokemon Mini</text>
-  </text>    
+    <text>DonPachi</text>
+  </text> 
   <text name="shortdescription" extra="true">
-    <text>2001  ·  Handheld Console</text>
+    <text>DonPachi · Game Series</text>
   </text>
   <text name="longdescription" extra="true">
-    <text>The Pokemon Mini is a handheld game console that was designed and manufactured by Nintendo and themed around the Pokemon media franchise</text>
+    <text>DonPachi was the first project to be developed by Cave, a Japanese video game developer founded by former Toaplan staff</text>
   </text>
  </view>
 </theme>

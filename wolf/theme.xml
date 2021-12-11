@@ -4,19 +4,19 @@
 
 <view name="basic, detailed, video, grid">
   <text name="nameLabel" extra="true">
-    <text>Pokemon Mini</text>
+    <text>Wolfenstein</text>
   </text>
 </view>    
 
 <view name="system">
   <text name="sys_line2" extra="true">
-    <text>Pokemon Mini</text>
-  </text>    
+    <text>Wolfenstein</text>
+  </text> 
   <text name="shortdescription" extra="true">
-    <text>2001  ·  Handheld Console</text>
+    <text>ECWolf · Wolfenstein Engine</text>
   </text>
   <text name="longdescription" extra="true">
-    <text>The Pokemon Mini is a handheld game console that was designed and manufactured by Nintendo and themed around the Pokemon media franchise</text>
+    <text>ECWolf is an advanced source port for Wolfenstein 3D based off of the Wolf4SDL code base</text>
   </text>
  </view>
 </theme>

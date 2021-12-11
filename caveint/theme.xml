@@ -4,19 +4,19 @@
 
 <view name="basic, detailed, video, grid">
   <text name="nameLabel" extra="true">
-    <text>Pokemon Mini</text>
+    <text>Cave</text>
   </text>
-</view>    
+</view>
 
 <view name="system">
   <text name="sys_line2" extra="true">
-    <text>Pokemon Mini</text>
-  </text>    
+    <text>Cave</text>
+  </text> 
   <text name="shortdescription" extra="true">
-    <text>2001  ·  Handheld Console</text>
+    <text>Cave Interactive · Game Developer</text>
   </text>
   <text name="longdescription" extra="true">
-    <text>The Pokemon Mini is a handheld game console that was designed and manufactured by Nintendo and themed around the Pokemon media franchise</text>
+    <text>Cave Interactive is a Japanese video game company founded in 1994 by former employees of Toaplan following its bankruptcy."CAVE" is an acronym for "Computer Art Visual Entertainment".</text>
   </text>
  </view>
 </theme>

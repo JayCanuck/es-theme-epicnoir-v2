@@ -4,19 +4,22 @@
 
 <view name="basic, detailed, video, grid">
   <text name="nameLabel" extra="true">
-    <text>Pokemon Mini</text>
+    <text>Microsoft Xbox</text>
   </text>
 </view>    
 
 <view name="system">
+  <text name="sys_line1" extra="true">
+    <text>Microsoft</text>
+  </text>
   <text name="sys_line2" extra="true">
-    <text>Pokemon Mini</text>
-  </text>    
+    <text>Xbox</text>
+</text>
   <text name="shortdescription" extra="true">
-    <text>2001  ·  Handheld Console</text>
+    <text>2001  ·  Home Console</text>
   </text>
   <text name="longdescription" extra="true">
-    <text>The Pokemon Mini is a handheld game console that was designed and manufactured by Nintendo and themed around the Pokemon media franchise</text>
+    <text>The Microsoft Xbox is a sixth generation home video game console developed and distributed by Microsoft</text>
   </text>
  </view>
 </theme>

@@ -4,19 +4,19 @@
 
 <view name="basic, detailed, video, grid">
   <text name="nameLabel" extra="true">
-    <text>Pokemon Mini</text>
+    <text>Playstation Portable</text>
   </text>
 </view>    
 
 <view name="system">
   <text name="sys_line2" extra="true">
-    <text>Pokemon Mini</text>
-  </text>    
+    <text>PSP Minis</text>
+  </text>
   <text name="shortdescription" extra="true">
-    <text>2001  ·  Handheld Console</text>
+    <text>2004  ·  Handheld Console</text>
   </text>
   <text name="longdescription" extra="true">
-    <text>The Pokemon Mini is a handheld game console that was designed and manufactured by Nintendo and themed around the Pokemon media franchise</text>
+    <text>Sony's first handheld, it was also the first real competition to Nintendo handhelds since the Game Gear</text>
   </text>
  </view>
 </theme>
