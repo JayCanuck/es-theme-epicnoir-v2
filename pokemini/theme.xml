@@ -4,22 +4,22 @@
 
 <view name="basic, detailed, video, grid">
   <text name="nameLabel" extra="true">
-    <text>M.A.M.E.</text>
+    <text>Pokemon Mini</text>
   </text>
 </view>    
 
 <view name="system">
   <text name="sys_line1" extra="true">
-    <text>Multiple Arcade Machine Emulator</text>
+    <text>Nintendo</text>
   </text>
   <text name="sys_line2" extra="true">
-    <text>M.A.M.E.</text>
+    <text>Pokemon Mini</text>
 </text>
   <text name="shortdescription" extra="true">
-   <text>Coin Operated Cabinet</text>
+   <text>1994  ·  32-bit Console</text>
   </text>
   <text name="longdescription" extra="true">
-   <text>Coin-operated entertainment machines. The golden age is defined as a period between the late 1970s and ending in the mid-1980s</text>
+   <text>Fifth generation home video game console developed by Sega and successor to the successful Sega Genesis</text>
   </text>
  </view>
 </theme>
