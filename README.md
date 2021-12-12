@@ -1,6 +1,190 @@
-## EpicNoir RetroPie Theme
+## EpicNoir-v2 RetroPie Theme
 
-This is a modern dark RetroPie theme based on original ideas by Chicuelo and brought to life in collaboration with Nick L (c64-dev).
+Updated and cleaned by Romfrosk.
+
+Original Features:
+* Dark and clean interface
+* High quality wallpapers for all systems
+* Custom collections pre-designed / created for various genres (such as Shoot 'em Up, etc)
+* Collections for 'All Games', 'Favorites', 'Last Played' and 'Custom Collections' fully supported
+* Support for screenshots/boxart and/or video.
+
+Main Changes:
+
+- Cleaned up all .xmls
+- Added many new systems from Jetup13's Fork
+- Moved all backgrounds, fonts, posters and addistional files under _assets
+
+## Fully Supported Systems (Posters, Controllers & Descriptions):
+###### Newly added systems indicated by '*' : 
+
+3DO \
+Amstrad CPC \
+Amiga * \
+Amiga CD32 * \
+Apple ][ \
+Atari 800 \
+Atari 2600 \
+Atari 5200 \
+Atari 7800 \
+Atari Jaguar \
+Atari Lynx \
+Atari ST \
+Capcom System I * \
+Capcom System II * \
+Capcom System III * \
+Coco \
+Commodore 16 * \
+Commodore 64 \
+Commodore Vic-20 * \
+ColecoVision \ 
+Daphne \
+Famicom & Super Famicom \ 
+Family Disk System * \
+Final Burn Alpha * \
+Final Burn Neo * \
+Game & Watch \
+Intellivision \
+MAME (2003,2010,2015) \ 
+Moonlight * \
+MS-DOS & DOS \
+MSX & MSX 2 \
+NEC PC-88 * \
+NEC PC-98 * \
+NEC PC-Engine \
+NEC PC-Engine CD * \
+NEC SuperGrafx \
+NEC TurboGrafx * \
+NEC TurboGrafx CD * \
+NEC TurboGrafx-16 \
+NEC TurboGrafx-16 CD * \
+Neo Geo \
+Neo Geo CD * \
+Neo Geo Pocket & Pocket Color \ 
+Nintendo 64 \
+Nintendo 64DD * \
+Nintendo DS \
+Nintendo Entertainment System \
+Nintendo Gameboy \
+Nintendo Gameboy Advance\
+Nintendo Gameboy Color \
+Nintendo GameCube \
+Nintendo Pokemon Mini * \
+Nintendo SNES \
+Nintendo SNES MSU-1 * \
+Nintendo VirtualBoy \
+Nintendo Wii & WiiU \
+R-Zone * \
+ResidualVM * \
+RPGS * \
+ScummVM \
+Sega Dreamcast * \
+Sega Gamegear \
+Sega Genesis \
+Sega Genesis 32x & CD * \ 
+Sega Mastersystem \
+Sega Mega 32x & CD \
+Sega Megadrive \
+Sega Naomi * \
+Sega Saturn \
+Sega SG-1000 \
+Sinclair ZX 81 * \
+Sinclair ZX Spectrum \
+Sony Playstation \
+Sony Playstation 2 \
+Sony PSP \
+Sony PSP Minis * \
+Thomson MO/TO7 * \
+Valve Steam \
+Vectrex \
+Wonderswan \
+Wonderswan Color \
+x-68000 
+
+## Partially Supported Systems
+###### Posters, Controllers or Descriptions may be missing (What is missing is indicated by P C D):
+
+Acorn BBC (C) \
+Advision (P C) \
+American Laser Games -  (P C) \
+Amiga CDTV (C) \
+Arcadia (P C) \
+Astrocade (P C) \
+Atari XEGS (C) \
+Atomiswave (C) \
+Cave (C) \
+ChaiLove (P C) \
+Commodore 128 (C) \
+Commodore Plus4 (P C) \
+Commodore PET (P C) \
+CreatiVision (P C) \
+DonPachi (C) \
+Doom (C) \
+DosBox (P C) \
+EasyRPG (C) \
+ECWolf (P C)
+Fairchild Channel F (C) \
+Game.Com (P C) \
+J2Me (P C) \
+Konami LCD (P C) \
+LCD Games (P C) \
+LowResNX (C) \
+Lutro (P C) \
+MegaDuck (P C) \
+Microsoft Xbox (C) \
+MicroVision (P C) \
+Moto (C) \
+Neo Geo AES (C) \
+Nintendo 3DS (P C) \
+Nintendo Satellaview (C) \
+Odyssey2 (P C) \
+OpenBOR (C) \
+Palm (P C) \
+PC-FX (C) \
+Pico-8 (C) \
+Sega SC-3000 (C) \
+Sega VMU (C) \
+Solarus (C) \
+TI-99 (C) \
+Tic-80 (C) \
+Tiger LCD (P C) \
+Uzebox (C) \
+VideoPac (C) \
+Watara Supervision (C) \
+Wolf (C) \
+X1 (C) 
+
+
+## Collections
+##### Auto Collections
+All Games
+Favorites
+Last Played
+
+##### Custom Collections (for when a user creates their own collection within ES)
+Action
+Adventure
+Arcade
+Beat 'em Ups
+Fighting
+FixedScreen
+Kids
+Kodi
+Mario
+MetalSlug
+Platformers
+Ports
+Power
+Puzzle
+Racing
+RetroArch
+RetroPie
+Shoot 'em Ups
+Strategy
+Street Fighter
+Wrestling
+
+###### [back to top](https://github.com/c64-dev/es-epicnoir#epicnoir-retropie-theme)
 
 ---
 
@@ -30,20 +214,15 @@ By downloading and installing this theme it will be assumed that you own and pos
 
 ### Thanks and Credits
 
+Heavily based on C64-dev & Chicuelo.
+Many systems added. posters and info gotten from Jetup13
+
 All original artwork belongs to the many artists who devoted their talents and time into making them. 
 Most of them can be found in [DeviantArt](http://www.deviantart.com/).
 
-###### [back to top](https://github.com/c64-dev/es-epicnoir#epicnoir-retropie-theme)
+###### [back to top](https://github.com/Romfrosk/es-epicnoir#epicnoir-retropie-theme)
 
 ---
-
-### Features
-
-* Dark and clean interface
-* New high quality wallpapers for all systems
-* Custom collections pre-designed / created for various genres (such as Shoot 'em Up, etc)
-* Collections for 'All Games', 'Favorites', 'Last Played' and 'Custom Collections' fully supported
-* Support for screenshots/boxart and/or video.
 
 ###### [back to top](https://github.com/c64-dev/es-epicnoir#epicnoir-retropie-theme)
 
@@ -58,7 +237,7 @@ Most of them can be found in [DeviantArt](http://www.deviantart.com/).
 3. Run in a terminal:
 
        cd ~/.emulationstation/themes
-       git clone https://github.com/c64-dev/es-epicnoir.git --branch master
+       git clone https://github.com/Romfrosk/es-epicnoir-v2.git --branch master
 
 ### Update
 
@@ -93,69 +272,5 @@ Game screenshots are not included within the theme. You can scrape your own - yo
 ![Sample12](https://github.com/c64-dev/es-epicnoir/blob/master/_art/samples/012.jpg) \
 ![Sample13](https://github.com/c64-dev/es-epicnoir/blob/master/_art/samples/013.jpg) 
 
-
-###### [back to top](https://github.com/c64-dev/es-epicnoir#epicnoir-retropie-theme)
-
-## Fully Supported Systems
-###### (backgrounds, controller images, descriptions) :
-
-3DO \
-Amstrad CPC \
-Apple ][ \
-Apple Macintosh \
-Atari 800 \
-Atari 2600 \
-Atari 5200 \
-Atari 7800 \
-Atari Jaguar \
-Atari Lynx \
-Atari ST \
-Commodore 64 \
-Commodore Amiga \
-ColecoVision \ 
-Daphne \
-Famicom & Super Famicom \ 
-Game & Watch \
-Intellivision \
-MAME \ 
-MS-DOS \
-MSX & MSX 2 \
-Neo Geo \
-Neo Geo Pocket & Pocket Color \ 
-Nintendo 64 \
-Nintendo DS \
-Nintendo Dreamcast \ 
-Nintendo Entertainment System \
-Nintendo Gameboy \
-Nintendo Gameboy  Advance\
-Nintendo Gameboy Color \
-Nintendo GameCube \
-Nintendo SNES \
-Nintendo VirtualBoy \
-Nintendo Wii & WiiU \
-PC-Engine \
-ScummVM \
-Sega Gamegear \
-Sega Genesis \
-Sega Mastersystem \
-Sega Mega 32x & CD \
-Sega Megadrive \
-Sega Saturn \
-Sega SG-1000 \
-Sinclair ZX Spectrum \
-Sony Playstation \
-Sony Playstation 2 \
-Sony PSP \
-SuperGrafx \
-TurboGrafx-16 \
-Valve Steam \
-Vectrex \
-Wonderswan \
-Wonderswan Color \
-x-68000 
-
-**Collections:** \
-Auto Collections
-Custom Collections (for when a user creates their own collection within ES)
 
 ###### [back to top](https://github.com/c64-dev/es-epicnoir#epicnoir-retropie-theme)

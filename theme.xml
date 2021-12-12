@@ -19,7 +19,7 @@ This work is licensed under a Creative Commons Attribution-NonCommercial-ShareAl
 
 <view name="system">
     <image name="background" extra="true">
-        <path>./_art/var/dot.png</path>
+        <path>./_assets/backgrounds/dot.png</path>
         <tile>false</tile>
         <size>1 1</size>
         <pos>0 0</pos>
@@ -27,7 +27,7 @@ This work is licensed under a Creative Commons Attribution-NonCommercial-ShareAl
     </image>
       
     <image name="poster" extra="true">
-        <path>./_art/posters/${system.theme}.jpg</path>
+        <path>./_assets/posters/${system.theme}.jpg</path>
         <tile>false</tile>
         <origin>1 0</origin>
         <pos>1 0</pos>
@@ -36,13 +36,13 @@ This work is licensed under a Creative Commons Attribution-NonCommercial-ShareAl
     
     <image name="indicator_bg" extra="true">
         <tile>false</tile>
-        <path>./_art/indicators/left-ray.svg</path>
+        <path>./_assets/indicators/left-ray.svg</path>
         <size>0 1</size>
         <pos>0 0</pos>
     </image>
    
     <image name="indicator" extra="true">
-        <path>./_art/indicators/${system.theme}.png</path>
+        <path>./_assets/indicators/${system.theme}.png</path>
         <tile>false</tile>
         <color>F8F8F8</color>
         <origin>0 0</origin>
@@ -62,7 +62,7 @@ This work is licensed under a Creative Commons Attribution-NonCommercial-ShareAl
     </carousel>
     
     <text name="sys_line1" extra="true">
-        <fontPath>./_art/BebasNeue.otf</fontPath>
+        <fontPath>./_assets/fonts/BebasNeue.otf</fontPath>
         <alignment>left</alignment>
         <forceUppercase>1</forceUppercase>
         <color>FFFFFF</color>
@@ -73,7 +73,7 @@ This work is licensed under a Creative Commons Attribution-NonCommercial-ShareAl
     </text>
     
     <text name="sys_line2" extra="true">
-        <fontPath>./_art/BebasNeue.otf</fontPath>
+        <fontPath>./_assets/fonts/BebasNeue.otf</fontPath>
         <alignment>left</alignment>
         <forceUppercase>1</forceUppercase>
         <color>FFFFFF</color>
@@ -84,7 +84,7 @@ This work is licensed under a Creative Commons Attribution-NonCommercial-ShareAl
     </text>
 
     <text name="shortdescription" extra="true">
-        <fontPath>./_art/Acre.otf</fontPath>
+        <fontPath>./_assets/fonts/Acre.otf</fontPath>
         <alignment>left</alignment>
         <forceUppercase>0</forceUppercase>
         <fontSize>0.021</fontSize>
@@ -95,7 +95,7 @@ This work is licensed under a Creative Commons Attribution-NonCommercial-ShareAl
     </text>
 
     <text name="systemInfo">
-        <fontPath>./_art/Acre.otf</fontPath>
+        <fontPath>./_assets/fonts/Acre.otf</fontPath>
         <alignment>left</alignment>
         <backgroundColor>00000000</backgroundColor>
         <forceUppercase>1</forceUppercase>
@@ -107,19 +107,19 @@ This work is licensed under a Creative Commons Attribution-NonCommercial-ShareAl
     </text>
     
     <text name="longdescription" extra="true">
-        <fontPath>./_art/Acre.otf</fontPath>
+        <fontPath>./_assets/fonts/Acre.otf</fontPath>
         <alignment>left</alignment>
         <forceUppercase>0</forceUppercase>
         <fontSize>0.021</fontSize>
         <color>8F8F8F</color>
- 	<lineSpacing>1.18</lineSpacing>
+ 	    <lineSpacing>1.18</lineSpacing>
         <origin>0 0</origin>
         <pos>0.12 0.360</pos>
         <size>0.28 0.20</size>
     </text>
 
     <image name="buttonA" extra="true">
-		<path>./_art/var/button.svg</path>
+		<path>./_assets/buttons/button.svg</path>
         <tile>false</tile>
         <origin>0 0</origin>
         <pos>0.12 0.545</pos>
@@ -127,7 +127,7 @@ This work is licensed under a Creative Commons Attribution-NonCommercial-ShareAl
     </image>
 
     <helpsystem name="help">
-        <fontPath>./_art/Acre.otf</fontPath>
+        <fontPath>./_assets/fonts/Acre.otf</fontPath>
         <fontSize>0.02</fontSize>
         <origin>1 1</origin><!--0 0-->
         <pos>0 0</pos> <!--0.0890 0.6283-->
@@ -136,19 +136,19 @@ This work is licensed under a Creative Commons Attribution-NonCommercial-ShareAl
     </helpsystem>
 
     <image name="controller" extra="true">
-        <path>./_art/controllers/${system.theme}.png</path>
+        <path>./_assets/controllers/${system.theme}.png</path>
         <tile>false</tile>
         <origin>0 0</origin>
         <pos>0.12 0.61</pos>
         <maxSize>0.32 0.32</maxSize>
     </image>
+
 </view>
 
 <view name="basic, detailed, video">
-
     <image name="background" extra="true">
         <tile>false</tile>
-        <path>./_art/ingame-global-bg.jpg</path>
+        <path>./_assets/backgrounds/ingame-global-bg.jpg</path>
         <size>1 1</size>
         <pos>0 0</pos>
     </image>
@@ -159,7 +159,7 @@ This work is licensed under a Creative Commons Attribution-NonCommercial-ShareAl
         <selectorHeight>0.05</selectorHeight>
         <primaryColor>585858</primaryColor>
         <secondaryColor>888888</secondaryColor>
-        <fontPath>./_art/Acre.otf</fontPath>
+        <fontPath>./_assets/fonts/Acre.otf</fontPath>
         <alignment>left</alignment>
         <pos>0 0.0833</pos>
 	    <size>0.323 0.8513</size>
@@ -169,7 +169,7 @@ This work is licensed under a Creative Commons Attribution-NonCommercial-ShareAl
     </textlist>
     
     <text name="top_label" extra="true">
-        <fontPath>./_art/Acre.otf</fontPath>
+        <fontPath>./_assets/fonts/Acre.otf</fontPath>
         <text>Select Game</text>
         <alignment>left</alignment>
         <color>F8F8F8</color>
@@ -180,7 +180,7 @@ This work is licensed under a Creative Commons Attribution-NonCommercial-ShareAl
     </text>
     
     <text name="nameLabel" extra="true">
-        <fontPath>./_art/Acre.otf</fontPath>
+        <fontPath>./_assets/fonts/Acre.otf</fontPath>
         <alignment>left</alignment>
         <forceUppercase>1</forceUppercase>
         <color>ffffff</color>
@@ -191,7 +191,7 @@ This work is licensed under a Creative Commons Attribution-NonCommercial-ShareAl
     </text>
 
     <text name="md_description">
-        <fontPath>./_art/Acre.otf</fontPath>
+        <fontPath>./_assets/fonts/Acre.otf</fontPath>
 	    <color>818181</color>
         <fontSize>0.02</fontSize>
 	    <alignment>left</alignment>
@@ -205,14 +205,14 @@ This work is licensed under a Creative Commons Attribution-NonCommercial-ShareAl
     <text name="md_lbl_rating, md_lbl_genre, md_lbl_players">
         <color>F8F8F8</color>
         <forceUppercase>0</forceUppercase>
-        <fontPath>./_art/Acre.otf</fontPath>
+        <fontPath>./_assets/fonts/Acre.otf</fontPath>
         <fontSize>0.0186</fontSize>
     </text>
 
     <text name="md_genre, md_players">
         <color>888888</color>
         <forceUppercase>0</forceUppercase>
-        <fontPath>./_art/Acre.otf</fontPath>
+        <fontPath>./_assets/fonts/Acre.otf</fontPath>
         <fontSize>0.0186</fontSize>
     </text>
 
@@ -225,8 +225,8 @@ This work is licensed under a Creative Commons Attribution-NonCommercial-ShareAl
     <rating name="md_rating">
         <pos>0.5 0.957</pos>
         <size>0 0.020</size>
-        <filledPath>./_art/var/star_filled.svg</filledPath>
-        <unfilledPath>./_art/var/star_hollow.svg</unfilledPath>
+        <filledPath>./_assets/rating/star_filled.svg</filledPath>
+        <unfilledPath>./_assets/rating/star_hollow.svg</unfilledPath>
     </rating>
 
     <text name="md_lbl_players">
@@ -235,7 +235,7 @@ This work is licensed under a Creative Commons Attribution-NonCommercial-ShareAl
     </text>
         
     <text name="md_players">
-        <fontPath>./_art/Acre.otf</fontPath>
+        <fontPath>./_assets/fonts/Acre.otf</fontPath>
         <color>888888</color>
         <fontSize>0.0186</fontSize>
         <pos>0.672 0.932</pos>
@@ -254,7 +254,7 @@ This work is licensed under a Creative Commons Attribution-NonCommercial-ShareAl
         
 <!-- Extra Text Labels. Edit text values if needed.-->
     <text name="players_lbl_2, btn_a, btn_b, btn_x" extra="true">
-        <fontPath>./_art/Acre.otf</fontPath>
+        <fontPath>./_assets/fonts/Acre.otf</fontPath>
         <color>888888</color>
         <fontSize>0.0186</fontSize>
     </text>       
@@ -285,7 +285,7 @@ This work is licensed under a Creative Commons Attribution-NonCommercial-ShareAl
 
     <text name="txt_descript" extra="true">
         <text>Description</text>
-        <fontPath>./_art/Acre.otf</fontPath>
+        <fontPath>./_assets/fonts/Acre.otf</fontPath>
         <alignment>left</alignment>
         <fontSize>0.0186</fontSize>
         <color>ffffff</color>
@@ -326,7 +326,6 @@ This work is licensed under a Creative Commons Attribution-NonCommercial-ShareAl
         <pos>0.66 0.42</pos>
         <maxSize>0.5 0.6</maxSize>
     </image>
-
 </view>
 
 <feature supported="video">
@@ -341,5 +340,4 @@ This work is licensed under a Creative Commons Attribution-NonCommercial-ShareAl
         </video>
     </view>
 </feature>
-
 </theme>

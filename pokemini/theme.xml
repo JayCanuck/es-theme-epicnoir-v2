@@ -9,9 +9,12 @@
 </view>    
 
 <view name="system">
+  <text name="sys_line1" extra="true">
+    <text>Nintendo</text>
+  </text>
   <text name="sys_line2" extra="true">
     <text>Pokemon Mini</text>
-  </text>    
+  </text> 
   <text name="shortdescription" extra="true">
     <text>2001  ·  Handheld Console</text>
   </text>

@@ -4,7 +4,7 @@
 
 <view name="basic, detailed, video, grid">
   <text name="nameLabel" extra="true">
-    <text>COCO TRS-80</text>
+    <text>TRS-80 Color Computer</text>
   </text>
 </view>    
 
@@ -13,7 +13,7 @@
     <text>Tandy</text>
   </text>
   <text name="sys_line2" extra="true">
-    <text>COCO TRS-80</text>
+    <text>TRS-80 Coco</text>
   </text>
   <text name="shortdescription" extra="true">
     <text>1977  ·  8-bit Computer</text>
