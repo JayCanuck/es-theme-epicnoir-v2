@@ -13,7 +13,7 @@ Main Changes:
 
 - Cleaned up all .xmls
 - Added many new systems from Jetup13's Fork
-- Moved all backgrounds, fonts, posters and addistional files under _assets
+- Moved all backgrounds, fonts, posters and additional files under _assets
 
 ## Fully Supported Systems (Posters, Controllers & Descriptions):
 ###### Newly added systems indicated by '*' : 
@@ -157,32 +157,32 @@ Wolf (C)
 
 ## Collections
 ##### Auto Collections
-All Games
-Favorites
-Last Played
+All Games \
+Favorites \
+Last Played \
 
 ##### Custom Collections (for when a user creates their own collection within ES)
-Action
-Adventure
-Arcade
-Beat 'em Ups
-Fighting
-FixedScreen
-Kids
-Kodi
-Mario
-MetalSlug
-Platformers
-Ports
-Power
-Puzzle
-Racing
-RetroArch
-RetroPie
-Shoot 'em Ups
-Strategy
-Street Fighter
-Wrestling
+Action \
+Adventure \
+Arcade \
+Beat 'em Ups \
+Fighting \
+FixedScreen \
+Kids \
+Kodi \
+Mario \
+MetalSlug \
+Platformers \
+Ports \
+Power \
+Puzzle \
+Racing \
+RetroArch \
+RetroPie \
+Shoot 'em Ups \
+Strategy \
+Street Fighter \
+Wrestling 
 
 ###### [back to top](https://github.com/c64-dev/es-epicnoir#epicnoir-retropie-theme)
 
