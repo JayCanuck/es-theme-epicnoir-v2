@@ -157,32 +157,32 @@ X1 (C)
 
 ## Collections
 ##### Auto Collections
-All Games
-Favorites
-Last Played
+All Games \
+Favorites \
+Last Played \
 
 ##### Custom Collections (for when a user creates their own collection within ES)
-Action
-Adventure
-Arcade
-Beat 'em Ups
-Fighting
-FixedScreen
-Kids
-Kodi
-Mario
-MetalSlug
-Platformers
-Ports
-Power
-Puzzle
-Racing
-RetroArch
-RetroPie
-Shoot 'em Ups
-Strategy
-Street Fighter
-Wrestling
+Action \
+Adventure \
+Arcade \
+Beat 'em Ups \
+Fighting \
+FixedScreen \
+Kids \
+Kodi \
+Mario \
+MetalSlug \
+Platformers \
+Ports \
+Power \
+Puzzle \
+Racing \
+RetroArch \
+RetroPie \
+Shoot 'em Ups \
+Strategy \
+Street Fighter \
+Wrestling 
 
 ###### [back to top](https://github.com/c64-dev/es-epicnoir#epicnoir-retropie-theme)
 
