@@ -13,7 +13,7 @@ Main Changes:
 
 - Cleaned up all .xmls
 - Added many new systems from Jetup13's Fork
-- Moved all backgrounds, fonts, posters and addistional files under _assets
+- Moved all backgrounds, fonts, posters and additional files under _assets
 
 ## Fully Supported Systems (Posters, Controllers & Descriptions):
 ###### Newly added systems indicated by '*' : 
