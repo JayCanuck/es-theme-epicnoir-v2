@@ -22,7 +22,8 @@ Main Changes:
 Amstrad CPC \
 Amiga * \
 Amiga CD32 * \
-Apple ][ \
+Amiga CDTV * \
+Apple 2 \
 Atari 800 \
 Atari 2600 \
 Atari 5200 \
@@ -30,15 +31,19 @@ Atari 7800 \
 Atari Jaguar \
 Atari Lynx \
 Atari ST \
+BBC Micro * \
 Capcom System I * \
 Capcom System II * \
 Capcom System III * \
+Cave * \
 Coco \
 Commodore 16 * \
 Commodore 64 \
 Commodore Vic-20 * \
 ColecoVision \ 
 Daphne \
+EasyRPG * \
+Fairchild Channel F * \
 Famicom & Super Famicom \ 
 Family Disk System * \
 Final Burn Alpha * \
@@ -46,6 +51,7 @@ Final Burn Neo * \
 Game & Watch \
 Intellivision \
 MAME (2003,2010,2015) \ 
+Microsoft Xbox * \
 Moonlight * \
 MS-DOS & DOS \
 MSX & MSX 2 \
@@ -53,6 +59,7 @@ NEC PC-88 * \
 NEC PC-98 * \
 NEC PC-Engine \
 NEC PC-Engine CD * \
+NEC PC-FX * \
 NEC SuperGrafx \
 NEC TurboGrafx * \
 NEC TurboGrafx CD * \
@@ -70,10 +77,14 @@ Nintendo Gameboy Advance\
 Nintendo Gameboy Color \
 Nintendo GameCube \
 Nintendo Pokemon Mini * \
+Nintendo Satellaview * \
 Nintendo SNES \
 Nintendo SNES MSU-1 * \
 Nintendo VirtualBoy \
 Nintendo Wii & WiiU \
+Odyssey2 * \
+OpenBOR * \
+Pico-8 * \
 R-Zone * \
 ResidualVM * \
 RPGS * \
@@ -87,72 +98,61 @@ Sega Mega 32x & CD \
 Sega Megadrive \
 Sega Naomi * \
 Sega Saturn \
+Sega SC-3000 * \
 Sega SG-1000 \
 Sinclair ZX 81 * \
 Sinclair ZX Spectrum \
+Solarus * \
 Sony Playstation \
 Sony Playstation 2 \
 Sony PSP \
 Sony PSP Minis * \
+TI-99 * \
+Tic-80 * \
 Thomson MO/TO7 * \
 Valve Steam \
 Vectrex \
+VideoPac * \
+Watara Supervision * \
 Wonderswan \
 Wonderswan Color \
-x-68000 
+Uzebox * \
+X1 * \
+X-68000 
 
 ## Partially Supported Systems
 ###### Posters, Controllers or Descriptions may be missing (What is missing is indicated by P C D):
 
-Acorn BBC (C) \
-Advision (P C) \
-American Laser Games -  (P C) \
-Amiga CDTV (C) \
-Arcadia (P C) \
-Astrocade (P C) \
+Advision (P) \
+American Laser Games (P C) \
+Arcadia (P) \
+Astrocade (P) \
 Atari XEGS (C) \
 Atomiswave (C) \
-Cave (C) \
 ChaiLove (P C) \
 Commodore 128 (C) \
-Commodore Plus4 (P C) \
-Commodore PET (P C) \
-CreatiVision (P C) \
+Commodore Plus4 (P) \
+Commodore PET (P) \
+CreatiVision (P) \
 DonPachi (C) \
 Doom (C) \
 DosBox (P C) \
-EasyRPG (C) \
 ECWolf (P C)
-Fairchild Channel F (C) \
-Game.Com (P C) \
+Game.Com (P) \
 J2Me (P C) \
 Konami LCD (P C) \
 LCD Games (P C) \
 LowResNX (C) \
-Lutro (P C) \
-MegaDuck (P C) \
-Microsoft Xbox (C) \
+Lutro (P) \
+MegaDuck (P) \
 MicroVision (P C) \
-Moto (C) \
+MSX-F8 (D P) \
 Neo Geo AES (C) \
-Nintendo 3DS (P C) \
-Nintendo Satellaview (C) \
-Odyssey2 (P C) \
-OpenBOR (C) \
-Palm (P C) \
-PC-FX (C) \
-Pico-8 (C) \
-Sega SC-3000 (C) \
+Nintendo 3DS (P) \
+Palm (P) \
 Sega VMU (C) \
-Solarus (C) \
-TI-99 (C) \
-Tic-80 (C) \
 Tiger LCD (P C) \
-Uzebox (C) \
-VideoPac (C) \
-Watara Supervision (C) \
-Wolf (C) \
-X1 (C) 
+Wolf (C)
 
 
 ## Collections
