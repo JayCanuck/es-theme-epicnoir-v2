@@ -31,6 +31,8 @@ Atari 7800 \
 Atari Jaguar \
 Atari Lynx \
 Atari ST \
+Atari XEGS * \
+Atomiswave * \
 BBC Micro * \
 Capcom System I * \
 Capcom System II * \
@@ -39,9 +41,11 @@ Cave * \
 Coco \
 Commodore 16 * \
 Commodore 64 \
+Commodore 128 * \
 Commodore Vic-20 * \
 ColecoVision \ 
 Daphne \
+Doom * \
 EasyRPG * \
 Fairchild Channel F * \
 Famicom & Super Famicom \ 
@@ -127,19 +131,15 @@ Advision (P) \
 American Laser Games (P C) \
 Arcadia (P) \
 Astrocade (P) \
-Atari XEGS (C) \
-Atomiswave (C) \
 ChaiLove (P C) \
-Commodore 128 (C) \
 Commodore Plus4 (P) \
 Commodore PET (P) \
 CreatiVision (P) \
 DonPachi (C) \
-Doom (C) \
 DosBox (P C) \
-ECWolf (P C)
+ECWolf (P)
 Game.Com (P) \
-J2Me (P C) \
+J2Me (P) \
 Konami LCD (P C) \
 LCD Games (P C) \
 LowResNX (C) \
@@ -215,7 +215,7 @@ By downloading and installing this theme it will be assumed that you own and pos
 ### Thanks and Credits
 
 Heavily based on C64-dev & Chicuelo.
-Many systems added. posters and info gotten from Jetup13
+Many systems added. posters and info gotten from Jetup13, Szalik, ALLRiPPED
 
 All original artwork belongs to the many artists who devoted their talents and time into making them. 
 Most of them can be found in [DeviantArt](http://www.deviantart.com/).
