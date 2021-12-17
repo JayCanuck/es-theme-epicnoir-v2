@@ -96,7 +96,7 @@ ScummVM \
 Sega Dreamcast * \
 Sega Gamegear \
 Sega Genesis \
-Sega Genesis 32x & CD * \ 
+Sega Genesis 32x & CD * \
 Sega Mastersystem \
 Sega Mega 32x & CD \
 Sega Megadrive \
@@ -137,7 +137,7 @@ Commodore PET (P) \
 CreatiVision (P) \
 DonPachi (C) \
 DosBox (P C) \
-ECWolf (P)
+ECWolf (P) \
 Game.Com (P) \
 J2Me (P) \
 Konami LCD (P C) \
