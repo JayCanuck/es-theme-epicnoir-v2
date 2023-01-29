@@ -9,7 +9,7 @@
 </view>    
 
 <view name="system">
-  <text name="sys_line1" extra="true">
+  <text name="sys_line2" extra="true">
     <text>Neo Geo</text>
   </text> 
   <text name="shortdescription" extra="true">
