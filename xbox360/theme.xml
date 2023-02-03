@@ -4,7 +4,7 @@
 
 <view name="basic, detailed, video, grid">
   <text name="nameLabel" extra="true">
-    <text>Microsoft Xbox</text>
+    <text>Microsoft Xbox 360</text>
   </text>
 </view>    
 
@@ -13,13 +13,13 @@
     <text>Microsoft</text>
   </text>
   <text name="sys_line2" extra="true">
-    <text>Xbox</text>
-</text>
+    <text>Xbox 360</text>
+  </text> 
   <text name="shortdescription" extra="true">
-    <text>2001  ·  Home Console</text>
+   <text>2005  ·  Home Console</text>
   </text>
   <text name="longdescription" extra="true">
-    <text>The Xbox is a home video game console and the first installment in the Xbox series of video game consoles manufactured by Microsoft. It was released as Microsoft's first foray into the gaming console market.</text>
+   <text>The Xbox 360 is a home video game console developed by Microsoft. As the successor to the original Xbox, it is the second console in the Xbox series.</text>
   </text>
  </view>
 </theme>

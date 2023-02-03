@@ -4,22 +4,22 @@
 
 <view name="basic, detailed, video, grid">
   <text name="nameLabel" extra="true">
-    <text>Microsoft Xbox</text>
+    <text>Sony Playstation 4</text>
   </text>
 </view>    
 
 <view name="system">
   <text name="sys_line1" extra="true">
-    <text>Microsoft</text>
+    <text>Sony</text>
   </text>
   <text name="sys_line2" extra="true">
-    <text>Xbox</text>
-</text>
+    <text>Playstation 4</text>
+  </text>
   <text name="shortdescription" extra="true">
-    <text>2001  ·  Home Console</text>
+    <text>2013  ·  Home Console</text>
   </text>
   <text name="longdescription" extra="true">
-    <text>The Xbox is a home video game console and the first installment in the Xbox series of video game consoles manufactured by Microsoft. It was released as Microsoft's first foray into the gaming console market.</text>
+    <text>The PlayStation 4 is an eighth-generation system and fourth home video game console developed by Sony Interactive Entertainment.</text>
   </text>
  </view>
 </theme>
