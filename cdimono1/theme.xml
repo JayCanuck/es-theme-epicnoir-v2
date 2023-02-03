@@ -1,0 +1,25 @@
+<theme>
+<formatVersion>5</formatVersion>
+<include>./../theme.xml</include>
+
+<view name="basic, detailed, video, grid">
+  <text name="nameLabel" extra="true">
+    <text>Philips CD-i</text>
+  </text>
+</view>    
+
+<view name="system">
+  <text name="sys_line1" extra="true">
+    <text>Philips</text>
+  </text>
+  <text name="sys_line2" extra="true">
+    <text>CD-i</text>
+  </text>    
+  <text name="shortdescription" extra="true">
+    <text>1990  ·  16-bit Console</text>
+  </text>
+  <text name="longdescription" extra="true">
+    <text>The Philips CD-i is a CD player capable of running CD-based interactive games, many of which were based upon full-motion video.</text>
+  </text>
+ </view>
+</theme>
