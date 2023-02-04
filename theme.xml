@@ -253,25 +253,25 @@ This work is licensed under a Creative Commons Attribution-NonCommercial-ShareAl
     </text> 
         
 <!-- Extra Text Labels. Edit text values if needed.-->
-    <text name="players_lbl_2, btn_a, btn_b, btn_x" extra="true">
+    <text name="players_lbl_2, btn_a, btn_b, btn_y" extra="true">
         <fontPath>./_assets/fonts/Acre.otf</fontPath>
         <color>888888</color>
         <fontSize>0.0186</fontSize>
     </text>       
 
     <text name="btn_a" extra="true">
-        <text>Enter</text>
+        <text>Select</text>
         <pos>0.042 0.933</pos>
         <size>0.06 0.07</size>
     </text>   
         
     <text name="btn_b" extra="true">
-        <text>Return</text>
+        <text>Back</text>
         <pos>0.155 0.933</pos>
         <size>0.06 0.07</size>
     </text>   
         
-    <text name="btn_x" extra="true">
+    <text name="btn_y" extra="true">
         <text>Favorite</text>
         <pos>0.259 0.933</pos>
         <size>0.06 0.07</size>
