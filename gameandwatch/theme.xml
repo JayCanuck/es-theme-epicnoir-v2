@@ -4,7 +4,7 @@
 
 <view name="basic, detailed, video, grid">
   <text name="nameLabel" extra="true">
-    <text>Game Watch</text>
+    <text>Game &amp; Watch</text>
   </text>
 </view>    
 
@@ -13,7 +13,7 @@
     <text>Nintendo</text>
   </text>
   <text name="sys_line2" extra="true">
-    <text>Game Watch</text>
+    <text>Game &amp; Watch</text>
   </text>
   <text name="shortdescription" extra="true">
     <text>Handheld Electronic Games</text>
