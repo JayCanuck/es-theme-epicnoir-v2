@@ -10,10 +10,10 @@
 
 <view name="system">
   <text name="sys_line1" extra="true">
-    <text>Amiga</text>
+    <text>Commodore</text>
   </text>
   <text name="sys_line2" extra="true">
-    <text>CD32</text>
+    <text>Amiga CD32</text>
   </text> 
   <text name="shortdescription" extra="true">
     <text>1993  ·  Home Console</text>
