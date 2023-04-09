@@ -1,0 +1,27 @@
+node_modules
+
+# ignore any generated indicators
+_assets/indicators/*
+
+# preserve stock indicators
+!_assets/indicators/'1st-system.png
+!_assets/indicators/2nd-system.png
+!_assets/indicators/3rd-system.png
+!_assets/indicators/4th-system.png
+!_assets/indicators/5th-system.png
+!_assets/indicators/6th-system.png
+!_assets/indicators/7th-system.png
+!_assets/indicators/8th-system.png
+!_assets/indicators/9th-system.png
+!_assets/indicators/10th-system.png
+!_assets/indicators/11th-system.png
+!_assets/indicators/12th-system.png
+!_assets/indicators/13th-system.png
+!_assets/indicators/14th-system.png
+!_assets/indicators/15th-system.png
+!_assets/indicators/16th-system.png
+!_assets/indicators/auto-favorites.png
+!_assets/indicators/power.png
+!_assets/indicators/retrobat.png
+!_assets/indicators/retropie.png
+!_assets/indicators/left-ray.svg
