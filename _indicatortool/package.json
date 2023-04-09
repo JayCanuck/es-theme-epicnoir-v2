@@ -1,0 +1,69 @@
+{
+  "name": "es-theme-epicnoir-v2-indicatortool",
+  "version": "0.1.0",
+  "description": "",
+  "main": "index.js",
+  "bin": {
+    "indicatortool": "./bin/indicatortool.js"
+  },
+  "scripts": {
+    "lint": "eslint .",
+    "fix": "eslint . --fix",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JayCanuck/es-theme-epicnoir-v2.git"
+  },
+  "author": "Jason Robitaille <jaycanuck.dev@gmail.com>",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/JayCanuck/es-theme-epicnoir-v2/issues"
+  },
+  "homepage": "https://github.com/JayCanuck/es-theme-epicnoir-v2#readme",
+  "dependencies": {
+    "fs-extra": "^11.1.1",
+    "minimist": "^1.2.8",
+    "xml2js": "^0.4.23"
+  },
+  "devDependencies": {
+    "eslint": "^8.38.0",
+    "eslint-config-prettier": "^8.8.0",
+    "eslint-plugin-import": "^2.27.5",
+    "eslint-plugin-prettier": "^4.2.1",
+    "prettier": "^2.8.7"
+  },
+  "eslintConfig": {
+    "root": true,
+    "env": {
+      "node": true,
+      "es2021": true
+    },
+    "extends": ["eslint:recommended", "plugin:prettier/recommended"],
+    "plugins": ["import"],
+    "rules": {
+      "import/no-unresolved": ["error", { "commonjs": true, "caseSensitive": true }],
+      "import/named": "error",
+      "import/first": "warn",
+      "import/no-duplicates": "error",
+      "import/extensions": ["warn", "always", { "js": "never", "json": "always" }],
+      "import/newline-after-import": "warn",
+      "import/order": [
+        "warn",
+        {
+          "newlines-between": "never",
+          "groups": ["builtin", "external", "internal", "parent", "sibling", "index"]
+        }
+      ]
+    }
+  },
+  "prettier": {
+    "printWidth": 100,
+    "tabWidth": 4,
+    "useTabs": true,
+    "singleQuote": true,
+    "quoteProps": "preserve",
+    "trailingComma": "none",
+    "arrowParens": "avoid"
+  }
+}
